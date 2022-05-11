@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="pmod_color_project" location="/home/abe447/workspace/ece520/final_project/software/pmod_color_project" platform="/home/abe447/workspace/ece520/final_project/software/pmod_color_ip_block_wrapper/export/pmod_color_ip_block_wrapper/pmod_color_ip_block_wrapper.xpfm" platformUID="xilinx:zybo-z7-10::0.0(custom)" systemProject="pmod_color_project_system" sysConfig="pmod_color_ip_block_wrapper" runtime="cpp" cpu="standalone_ps7_cortexa9_0" cpuInstance="ps7_cortexa9_0" os="standalone" mssSignature="cc9bb9bd8686a526cc009a06707f0e48">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.1113574514">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.1879722932" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="empty_application"/>
+</sdkproject:SdkProject>

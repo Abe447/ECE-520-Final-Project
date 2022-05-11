@@ -1,0 +1,21 @@
+timestamp=[2022-05-09 16:35:59], mode=WORKBENCH_START, duration=0:00:08.358, duration_ms=8358, data={}
+timestamp=[2022-05-09 16:36:00], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.075, duration_ms=75, data={}
+timestamp=[2022-05-09 16:36:00], mode=WORKBENCH_UI_INIT, duration=0:00:00.979, duration_ms=979, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2022-05-09 16:37:39], mode=APP_CREATION, duration=0:00:21.682, duration_ms=21682, data={name=pmod_color_project, project_type=sdk, os=standalone, processor=ps7_cortexa9, runtime=cpp, platform=pmod_color_ip_block_wrapper, application_type=application}
+timestamp=[2022-05-09 16:43:11], mode=PLATFORM_GENERATION, duration=0:00:22.863, duration_ms=22863, data={name=pmod_color_ip_block_wrapper}
+timestamp=[2022-05-09 16:44:14], mode=BUILD, duration=0:00:00.843, duration_ms=843, data={name=pmod_color_project, configuration=Debug, clean_build=false}
+timestamp=[2022-05-09 17:07:45], mode=BUILD, duration=0:00:00.615, duration_ms=615, data={name=pmod_color_project, configuration=Debug, clean_build=false}
+timestamp=[2022-05-09 17:30:53], mode=BUILD, duration=0:00:00.700, duration_ms=700, data={name=pmod_color_project, configuration=Debug, clean_build=false}
+timestamp=[2022-05-10 19:50:17], mode=WORKBENCH_START, duration=0:00:09.391, duration_ms=9391, data={}
+timestamp=[2022-05-10 19:50:18], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.088, duration_ms=88, data={}
+timestamp=[2022-05-10 19:50:20], mode=WORKBENCH_UI_INIT, duration=0:00:02.203, duration_ms=2203, data={editors_count=3, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,pmod_color_ip_block_wrapper,pmod_color_project,pmod_color_project_system}
+timestamp=[2022-05-10 20:10:07], mode=PLATFORM_GENERATION, duration=0:00:09.299, duration_ms=9299, data={name=pmod_color_ip_block_wrapper}
+timestamp=[2022-05-10 20:10:36], mode=PLATFORM_GENERATION, duration=0:00:22.743, duration_ms=22743, data={name=pmod_color_ip_block_wrapper}
+timestamp=[2022-05-10 20:10:47], mode=PLATFORM_GENERATION, duration=0:00:06.797, duration_ms=6797, data={name=pmod_color_ip_block_wrapper}
+timestamp=[2022-05-10 20:10:48], mode=BUILD, duration=0:00:00.610, duration_ms=610, data={name=pmod_color_project, configuration=Debug, clean_build=true}
+timestamp=[2022-05-10 20:11:24], mode=PLATFORM_GENERATION, duration=0:00:22.434, duration_ms=22434, data={name=pmod_color_ip_block_wrapper}
+timestamp=[2022-05-10 20:11:27], mode=BUILD, duration=0:00:00.949, duration_ms=949, data={name=pmod_color_project, configuration=Debug, clean_build=false}
+timestamp=[2022-05-11 14:00:40], mode=PLATFORM_GENERATION, duration=0:00:07.101, duration_ms=7101, data={name=pmod_color_ip_block_wrapper}
+timestamp=[2022-05-11 14:00:40], mode=BUILD, duration=0:00:00.579, duration_ms=579, data={name=pmod_color_project, configuration=Debug, clean_build=true}
+timestamp=[2022-05-11 14:01:09], mode=PLATFORM_GENERATION, duration=0:00:22.280, duration_ms=22280, data={name=pmod_color_ip_block_wrapper}
+timestamp=[2022-05-11 14:01:12], mode=BUILD, duration=0:00:00.803, duration_ms=803, data={name=pmod_color_project, configuration=Debug, clean_build=false}
